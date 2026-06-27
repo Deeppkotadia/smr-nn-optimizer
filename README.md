@@ -121,9 +121,3 @@ The trained network predicts conversions for **100,000 new combinations** (npts 
 1. Jianguo Xu, Gilbert F. Froment — *Methane Steam Reforming, Methanation and Water-Gas Shift: 1, Intrinsic Kinetics*, AIChE Journal, 1989
 2. Sebastian T. Wismann et al. — *Electrified Methane Reforming: Understanding the Dynamic Interplay*, Ind. Eng. Chem. Res., 2019
 3. Giovanni Franchi et al. — *Hydrogen Production via Steam Reforming: A Critical Analysis of MR and RMM Technologies*, 2019
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
