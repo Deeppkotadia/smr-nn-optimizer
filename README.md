@@ -116,77 +116,11 @@ The trained network predicts conversions for **100,000 new combinations** (npts 
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.8+
-- MATLAB R2023+ (for data generation only)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/smr-nn-optimisation.git
-cd smr-nn-optimisation
-
-# Install Python dependencies
-pip install -r requirements.txt
-```
-
-### Run the Notebook
-
-```bash
-jupyter notebook OptimisationSMR_NN_8HiddenLayers.ipynb
-```
-
-### (Optional) Regenerate Training Data
-
-Open `OptimisationSMRDataGeneratorU_Included.m` in MATLAB and run it. The script will solve the ODE system for all parameter combinations and export results to an Excel file.
-
-### Launch Streamlit App
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 📦 Dependencies
-
-```
-streamlit>=1.32.0
-torch>=2.0.0
-numpy>=1.24.0
-pandas>=2.0.0
-scikit-learn>=1.3.0
-joblib>=1.3.0
-plotly>=5.18.0
-```
-
----
-
 ## 🔬 References
 
 1. Jianguo Xu, Gilbert F. Froment — *Methane Steam Reforming, Methanation and Water-Gas Shift: 1, Intrinsic Kinetics*, AIChE Journal, 1989
 2. Sebastian T. Wismann et al. — *Electrified Methane Reforming: Understanding the Dynamic Interplay*, Ind. Eng. Chem. Res., 2019
 3. Giovanni Franchi et al. — *Hydrogen Production via Steam Reforming: A Critical Analysis of MR and RMM Technologies*, 2019
-
----
-
-## 👨‍💻 Team
-
-Course Project — **CH5710: Applications of Machine Learning in Reaction Engineering**  
-Department of Chemical Engineering, **IIT Madras** | November 2024
-
-| Name | Roll No. |
-|------|----------|
-| Varun Subramanian | CH23M039 |
-| Subrat Panda | CH24D403 |
-| Naitik Modi | CH23M021 |
-| Deep | CA24M002 |
-| Samrat | CH24M025 |
-| Prince Singh | ME23M046 |
 
 ---
 
