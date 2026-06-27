@@ -1,4 +1,4 @@
-# 🔥 SMR Reaction Optimisation via Neural Networks
+# 🧊 SMR Reaction Optimisation via Neural Networks
 
 > **Maximising methane conversion in Steam Methane Reforming (SMR) using deep neural networks and grid search — without running expensive experiments.**
 
