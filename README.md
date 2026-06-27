@@ -36,9 +36,9 @@ This project replaces that with a **neural network surrogate model** trained on 
 ```
 smr-nn-optimisation/
 │
-├── OptimisationSMR_NN_8HiddenLayers.ipynb        # Main Jupyter notebook (training + grid search)
-├── OptimisationSMRDataGeneratorU_Included.m       # MATLAB data generator (ODE solver)
-├── OptimiserDataU_Included_NewRangeWithoutTin.xlsx # Generated training dataset
+├── notebook/OptimisationSMR_NN_8HiddenLayers.ipynb        # Main Jupyter notebook (training + grid search)
+├── matlab/OptimisationSMRDataGeneratorU_Included.m       # MATLAB data generator (ODE solver)
+├── data/OptimiserDataU_Included_NewRangeWithoutTin.xlsx # Generated training dataset
 ├── requirements.txt                               # Python dependencies
 └── README.md
 ```
